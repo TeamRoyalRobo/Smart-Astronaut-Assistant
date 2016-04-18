@@ -16,7 +16,7 @@
 **1. Arduino** 
 <br /> <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p> <br />
 **2. Android App**
-<br /> <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
+<p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
 
 ## Credits
 This Project is Created By:
