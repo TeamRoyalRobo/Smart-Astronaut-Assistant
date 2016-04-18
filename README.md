@@ -9,14 +9,14 @@
 **1. Arduino Uno**
 <br /> shdkasjhdkjashjkdjkashdjkash <br />
 **2. Motor Servo**
-gsdsdsdsdffdfdfdfsdfsdfd
+<br /> gsdsdsdsdffdfdfdfsdfsdfd
 
 
 ### Software
 **1. Arduino** 
-hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk
+<br /> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk <br />
 **2. Android App**
-jsdfklsjakldjklsjdkljskldjklasjdkljskladjk
+<br /> jsdfklsjakldjklsjdkljskldjklasjdkljskladjk
 
 ## Credits
 This Project is Created By:
