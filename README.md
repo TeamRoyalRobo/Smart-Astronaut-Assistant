@@ -1,8 +1,10 @@
-# Smart-Astronaut-Assistant
->*NASA Space Apps Challenge*
+# Smart-Astronaut-Assistant (demo-project)
+>*NASA Space Apps Challenge - 2016*
 
 ## Introduction
- This robot can be used as an astronaut assistant. It can explore around the astronaut to help him know about surrounding by sending images, videos and other information. It can sense obstacles, take pictures or videos,  and send this data &amp; info to the astronaut. It can be controlled with wifi or bluetooth.
+This is a robotics project made for NASA Space Apps Challenge - 2016. This is just a simple demo of the actual concept with few features showcased.
+### Main Concept:
+This robot is planned to assist astronaut on Journey to Mars. It can be contolled by the astronaut to do specific task....
 
 ## Project Structure
 ### Hardware&nbsp;
