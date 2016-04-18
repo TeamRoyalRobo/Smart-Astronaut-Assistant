@@ -7,14 +7,14 @@
 ## Project Structure
 ### Hardware
 **1. Arduino Uno**
-<p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p> <br />
+<p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
 **2. Motor Servo**
 <br /> <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
 
 
 ### Software
 **1. Arduino** 
-<p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p> <br />
+<br /> <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p> <br />
 **2. Android App**
 <br /> <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
 
