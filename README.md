@@ -7,16 +7,16 @@
 ## Project Structure
 ### Hardware
 1 **Arduino Uno**
-⋅⋅⋅shdkasjhdkjashjkdjkashdjkash
+⋅⋅⋅shdkasjhdkjashjkdjkashdjkash⋅⋅⋅
 2. **Motor Servo**
-⋅⋅⋅gsdsdsdsdffdfdfdfsdfsdfd
+⋅⋅⋅gsdsdsdsdffdfdfdfsdfsdfd⋅⋅⋅
 
 
 ### Software
 1 **Arduino** 
-⋅⋅⋅shdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk
+⋅⋅⋅shdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk⋅⋅⋅
 2 **Android App**
-⋅⋅⋅jsdfklsjakldjklsjdkljskldjklasjdkljskladjkas
+⋅⋅⋅jsdfklsjakldjklsjdkljskldjklasjdkljskladjkas⋅⋅⋅
 
 ## Credits
 This Project is Created By:
