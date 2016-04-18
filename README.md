@@ -6,15 +6,15 @@
 
 ## Project Structure
 ### Hardware
-*Arduino Uno
+* Arduino Uno
 shdkasjhdkjashjkdjkashdjkash
 
 ### Software
-*Arduino 
+* Arduino 
 shdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk
 
 ## Credits
 This Project is Created By:
-*sdsdsd
-*sdsdsdsdsd
+* sdsdsd
+* sdsdsdsdsd
  
