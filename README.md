@@ -6,8 +6,8 @@
 
 ## Project Structure
 ### Hardware
-+ **1. Arduino Uno**
-- hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk 
+**1. Arduino Uno**
+- <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
 **2. Motor Servo**
 <br /> <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
 
