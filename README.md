@@ -14,7 +14,7 @@
 
 ### Software
 **1. Arduino** 
-<br /> <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p> <br />
+<br /> <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
 **2. Android App**
 <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
 
