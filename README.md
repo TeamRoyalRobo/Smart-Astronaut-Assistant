@@ -9,19 +9,25 @@ This robot is planned to assist astronaut on Journey to Mars. It can be contolle
 ## Project Structure
 ### Hardware&nbsp;
 **1. Arduino Uno**
-<p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
-**2. Motor Servo**
-<br /> <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
-
+<p> Microcontroller. </p>
+**2. Servo Motor**
+<br /> <p> For rotating the ultrasonic sensor. </p>
+**3. Bluetooth module**
+<p> Used for connecting smartphone with robot through bluetooth. </p>
+**4. Motor Driver**
+**5. Micro Metal Gearmotor**
+**6. Zumo Chassis**
 
 ### Software
-**1. Arduino** 
-<br /> <p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
+**1. Arduino IDE** 
+<br /> <p> Used for uploading codes to arduino board. </p>
 **2. Android App**
-<p> hdjkshjkdhjksdhjkshdjksdjksadhjksahdjkhsajk </p>
+<p> Used for controlling the robot and viewing live video stream! </p>
 
 ## Credits
-This Project is Created By:
-* sdsdsd
-* sdsdsdsdsd
+Project by Team: Royal Robo.
+* Rakibul Hasan
+* Ashiqul Habib
+* Mamunur Rashid
+* Fathi Rahman
  
