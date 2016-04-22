@@ -2,12 +2,11 @@
 >*NASA Space Apps Challenge - 2016*
 
 ## Introduction
-This is a robotics project made for NASA Space Apps Challenge - 2016. This is just a simple demo of the actual concept with few features showcased.
+This is a robotics project made for NASA Space Apps Challenge - 2016. It solves the ROCK-IT SPACE FASHION AND DESIGN problem under Space Station Challenge.
 ## Main Concept
-This robot is planned to assist astronaut on Journey to Mars. It can be contolled by the astronaut to do useful task....
+We are presenting a bot system called "Smart Astronaut Assistant". It helps to communicate between a team of astronauts and also provide each of their current location. This bot can stream live video and provide environmental information to them. This is able to move through near every astronaut and collect their physical and mental status and send others to let them know about each others condition. It helps astronauts to maintain health and keep connected to team.
 ## Description
-We are presenting a bot system called "Smart Astronaut Assistant". It helps to communicate between a team of astronauts and also provide each of their current location. This bot can stream live video and provide environmental information to them. This is able to move through near every astronaut and collect their physical and mental condition to send others to call for help.
-
+We designed to place few sensors and chips to the space suite to measure astronauts heartbit rate, body temperature etc health status. An external bot will explore around Mars collecting environmental informations and send them with danger alerts if any. It can collect the health information of an astronaut from the space suite by getting arround him.
 ## Project Structure
 ### Hardware&nbsp;
 **1. Arduino Uno**
@@ -31,8 +30,8 @@ We are presenting a bot system called "Smart Astronaut Assistant". It helps to c
 
 ## Credits
 Project by Team: Royal Robo.
-* Rakibul Hasan
-* Ashiqul Habib
-* Mamunur Rashid
-* Fathi Rahman
+* Md. Rakibul Hasan @rakib_pw (Leader)
+* Md. Ashiqul Habib @bony_habib
+* Md. Mamunur Rashid @mdmamuncoc
+* Md. Fathi Rahman @mdfathi99
  
