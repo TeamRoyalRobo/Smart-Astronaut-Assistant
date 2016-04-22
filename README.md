@@ -1,4 +1,4 @@
-# Smart-Astronaut-Assistant (demo-project)
+# Smart-Astronaut-Assistant
 >*NASA Space Apps Challenge - 2016*
 
 ## Introduction
