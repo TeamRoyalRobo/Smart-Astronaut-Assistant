@@ -1,10 +1,12 @@
-# Smart-Astronaut-Assistant
+# Smart-Astronaut-Assistant (demo-project)
 >*NASA Space Apps Challenge - 2016*
 
 ## Introduction
 This is a robotics project made for NASA Space Apps Challenge - 2016. This is just a simple demo of the actual concept with few features showcased.
-### Main Concept:
-This robot is planned to assist astronaut on Journey to Mars. It can be contolled by the astronaut to do specific task....
+## Main Concept
+This robot is planned to assist astronaut on Journey to Mars. It can be contolled by the astronaut to do useful task....
+## Description
+We are presenting a bot system called "Smart Astronaut Assistant". It helps to communicate between a team of astronauts and also provide each of their current location. This bot can stream live video and provide environmental information to them. This is able to move through near every astronaut and collect their physical and mental condition to send others to call for help.
 
 ## Project Structure
 ### Hardware&nbsp;
