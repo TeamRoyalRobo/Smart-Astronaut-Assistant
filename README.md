@@ -11,14 +11,17 @@ We are presenting a bot system called "Smart Astronaut Assistant". It helps to c
 ## Project Structure
 ### Hardware&nbsp;
 **1. Arduino Uno**
-<p> Microcontroller. </p>
+<p> Microcontroller. Heart of the robot. </p>
 **2. Servo Motor**
 <br /> <p> For rotating the ultrasonic sensor. </p>
 **3. Bluetooth module**
 <p> Used for connecting smartphone with robot through bluetooth. </p>
 **4. Motor Driver**
+<p> Used for controlling the motor function by smartphone app. </p>
 **5. Micro Metal Gearmotor**
+<p> For rotating wheel. </p>
 **6. Zumo Chassis**
+<p> Its the lower body of this robot with wheel included. </p>
 
 ### Software
 **1. Arduino IDE** 
